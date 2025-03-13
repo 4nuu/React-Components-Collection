@@ -15,13 +15,13 @@ A **beautiful collection** of various **UI components** including **buttons, inp
 - 📦 **Other UI Elements** (Badges, Cards, Alerts, etc.)  
 
 ## 📸 Preview  
-![Components Preview](https://your-image-url.com)  
+
 
 ## 🚀 Getting Started  
 ### **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/4nuu/React-Components-Collection.git
+cd RCC
 
 ```
 ## Usage
