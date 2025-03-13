@@ -22,3 +22,13 @@ A **beautiful collection** of various **UI components** including **buttons, inp
 ```sh
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+
+```
+## Usage
+Simply copy and use the components in your projects. Modify as needed!
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a pull request or suggest new components.
+
+## 📄 License
+This project is open-source under the MIT License.
